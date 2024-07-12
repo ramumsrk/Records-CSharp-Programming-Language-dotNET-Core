@@ -1,0 +1,25 @@
+[2024-07-12 19:06:35.069] [Debug] [Template Engine] => [Execute]: Execute started
+[2024-07-12 19:06:35.206] [Debug] [Microsoft.TemplateEngine.Edge.TemplateConstraintManager] => [Execute]: Found 5 constraints factories, initializing.
+[2024-07-12 19:06:35.207] [Debug] [Microsoft.TemplateEngine.Edge.TemplateConstraintManager] => [Execute]: Found 5 constraints factories, initializing.
+[2024-07-12 19:06:35.214] [Debug] [MSBuildEvaluator] => [Execute]: Output directory is: /run/media/ramumsrk/1.0TiB/Records-CSharp-Programming-Language-dotNET-Core/medium.com/codex/getting-started-with-c-records-7dec761a87b5/Getting-Started-With-CSharp-Records/src/solution/getting_started_with_csharp_records.
+[2024-07-12 19:06:35.214] [Debug] [MSBuildEvaluator] => [Execute]: Project full path is: <null>.
+[2024-07-12 19:06:35.215] [Debug] [MSBuildEvaluator] => [Execute]: Found project files: .
+[2024-07-12 19:06:35.215] [Debug] [MSBuildEvaluator] => [Execute]: No project found.
+[2024-07-12 19:06:35.220] [Debug] [Template Engine] => [Execute] => [Template from config /usr/share/dotnet/templates/8.0.6/microsoft.dotnet.common.itemtemplates.8.0.301.nupkg/content/Solution/.template.config/template.json]: Template from config /usr/share/dotnet/templates/8.0.6/microsoft.dotnet.common.itemtemplates.8.0.301.nupkg/content/Solution/.template.config/template.json started
+[2024-07-12 19:06:35.286] [Debug] [Template Engine] => [Execute] => [Template from config /usr/share/dotnet/templates/8.0.6/microsoft.dotnet.common.itemtemplates.8.0.301.nupkg/content/Solution/.template.config/template.json]: Template from config /usr/share/dotnet/templates/8.0.6/microsoft.dotnet.common.itemtemplates.8.0.301.nupkg/content/Solution/.template.config/template.json finished, took 65 ms
+[2024-07-12 19:06:35.286] [Debug] [Template Engine] => [Execute]: Found template 'Solution File' (Microsoft.Standard.QuickStarts.Solution)
+[2024-07-12 19:06:35.287] [Debug] [Microsoft.TemplateEngine.Edge.Template.TemplateCreator] => [Execute] => [Template content generation]: Template content generation started
+[2024-07-12 19:06:35.312] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}identity' was assigned to value 'getting_started_with_csharp_records'.
+[2024-07-12 19:06:35.312] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_name' was assigned to value 'getting_started_with_csharp_records'.
+[2024-07-12 19:06:35.312] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_name' was assigned to value 'getting_started_with_csharp_records'.
+[2024-07-12 19:06:35.312] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_namespace' was assigned to value 'getting_started_with_csharp_records'.
+[2024-07-12 19:06:35.312] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_namespace' was assigned to value 'getting_started_with_csharp_records'.
+[2024-07-12 19:06:35.317] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}identity' was assigned to value 'getting_started_with_csharp_records'.
+[2024-07-12 19:06:35.317] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_name' was assigned to value 'getting_started_with_csharp_records'.
+[2024-07-12 19:06:35.317] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_name' was assigned to value 'getting_started_with_csharp_records'.
+[2024-07-12 19:06:35.317] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_namespace' was assigned to value 'getting_started_with_csharp_records'.
+[2024-07-12 19:06:35.317] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_namespace' was assigned to value 'getting_started_with_csharp_records'.
+[2024-07-12 19:06:35.318] [Debug] [Microsoft.TemplateEngine.Edge.Template.TemplateCreator] => [Execute] => [Template content generation]: Template content generation finished, took 31 ms
+The template "Solution File" was created successfully.
+
+[2024-07-12 19:06:35.320] [Debug] [Template Engine] => [Execute]: Execute finished, took 251 ms
